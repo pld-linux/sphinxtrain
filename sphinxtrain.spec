@@ -6,7 +6,7 @@ Summary:	CMU SphinxTrain - open source acoustic model trainer
 Summary(pl.UTF-8):	CMU SpinxTrain - mający otwarte źródła trener modeli akustycznych
 Name:		sphinxtrain
 Version:	1.0.8
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/Sound
 Source0:	http://downloads.sourceforge.net/cmusphinx/%{name}-%{version}.tar.gz
